@@ -1,0 +1,47 @@
+{
+  "streams": [
+    {
+      "title": "d",
+      "description": "d",
+      "id": 1
+    },
+    {
+      "title": "shalom",
+      "description": "test",
+      "id": 2
+    },
+    {
+      "title": "b",
+      "description": "cvb",
+      "id": 3
+    },
+    {
+      "title": "gg12",
+      "description": "yxxxxcv",
+      "id": 4
+    },
+    {
+      "title": "eddd",
+      "description": "aggasg",
+      "id": 6
+    },
+    {
+      "title": "12",
+      "description": "3123",
+      "userId": "108405752664981162374",
+      "id": 7
+    },
+    {
+      "title": "ff",
+      "description": "fa",
+      "userId": "108405752664981162374",
+      "id": 8
+    },
+    {
+      "title": "yy",
+      "description": "yyyy",
+      "userId": "108405752664981162374",
+      "id": 9
+    }
+  ]
+}
